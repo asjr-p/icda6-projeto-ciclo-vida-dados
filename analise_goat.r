@@ -1,5 +1,5 @@
 ### LEITURA DOS DADOS
-
+library(readr)
 messi_data <- read_csv("messi_data.csv")
 cr7 <- read_csv("cr7.csv")
 
